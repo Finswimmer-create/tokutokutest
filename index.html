@@ -34,10 +34,20 @@
     <p><img src="fin.jpg" alt="大会の様子" width="500"></p>
 
   <script>
-     var x =124
-     var y =35
-     var z =x*y
-     document.write(x + "*" + y + "=" + z);
+     var te = "グー";
+    switch (te) {
+      case "パー":
+        document.write("私はチョキ。私の勝ちです。");
+        break;
+      case "グー":
+        document.write("私はパー。私の勝ちです。");
+        break;
+      case "チョキ":
+        document.write("私はグー。私の勝ちです。");
+        break;
+      default:
+      document.write("よく分かりません")
+    }
   </script>
 
 </body>
