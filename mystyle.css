@@ -1,2 +1,6 @@
  body { background: white; color: black}
- h1 { background: blue; color: white}
+ h1 { background: blue; color: white; padding: 30px; }
+ p { color: black ; font-family: fantasy; margin: 20px; position: relative; font-family: serif;}
+ .s1 { color: red}
+ .s2 { color: blue}
+ .s3 { background: yellow ; color: black ; font-weight: bold }
