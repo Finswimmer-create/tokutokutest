@@ -1,6 +1,7 @@
 .msr_box03 {
   background-color: #CCCCFF;
-  width: 230px;
+  width: 250px;
+  margin: 20px;
 }
 .msr_box03 a{
   box-sizing: border-box;
@@ -23,7 +24,7 @@
 }
 .msr_box03 p {
   background-color: #CCCCFF;
-  font-size: 12px;
+  font-size: 14px;
   line-height: 1.6;
   padding: 2px;
 }
@@ -54,4 +55,9 @@
 }
 .msr_box03 a:hover{
   opacity: 0.8;
+}
+
+.flexbox {
+  display: flex;
+  justify-content:center;
 }
