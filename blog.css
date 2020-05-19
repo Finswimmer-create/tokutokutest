@@ -63,16 +63,10 @@
   flex-wrap: wrap;
 }
 
-.flexbox2 {
-  　display: flex;
-    justify-content:center;
-}
-
 .msr_box01 {
   background-color: #CCCCFF;
   width: 60%;
   margin: 40px;
-  position: absolute; left: 20%;
 }
 .msr_box01 p {
   background-color: #CCCCFF;
