@@ -62,3 +62,23 @@
   justify-content:left;
   flex-wrap: wrap;
 }
+
+.msr_box01 {
+  background-color: #CCCCFF;
+  width: 500px;
+  margin: 40px;
+}
+.msr_box01 p {
+  background-color: #CCCCFF;
+  font-size: 18px;
+  line-height: 1.6;
+  padding: 4px;
+}
+.msr_box01 .ttl {
+  background-color: blue;
+  color: #FFFFFF;
+  font-size: 30px;
+  line-height: 1.6;
+  padding: 8px;
+  position: relative;
+}
