@@ -63,14 +63,14 @@
   flex-wrap: wrap;
 }
 
-.flexbox2{
+.flexbox2 {
   　display: flex;
     justify-content:center;
 }
 
 .msr_box01 {
   background-color: #CCCCFF;
-  width: 500px;
+  width: 600px;
   margin: 40px;
 }
 .msr_box01 p {
