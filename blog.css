@@ -64,6 +64,7 @@
 }
 
 .flexbox2{
+  　display: flex;
     justify-content:center;
 }
 
@@ -79,8 +80,8 @@
   padding: 4px;
 }
 .msr_box01 .ttl {
-  background-color: blue;
-  color: #FFFFFF;
+  background-color: #CCCCFF;
+  color: black;
   font-size: 30px;
   line-height: 1.6;
   padding: 8px;
