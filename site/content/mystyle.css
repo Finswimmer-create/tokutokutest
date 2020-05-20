@@ -70,13 +70,6 @@ ul li {display: inline-block; padding: 10px 10px 10px 10px; color: white;}
   vertical-align: middle;
 }
 
-/* 時間の設定 */
-.msr_newslist01 li time {
-  display: table-cell;
-  vertical-align: top;
-  width: 90px;
-}
-
 /* カテゴリの設定 */
 .msr_newslist01 li .cat01,
 .msr_newslist01 li .cat02 {
